@@ -9,19 +9,16 @@
 
 개발도 딸깍으로 만들고 싶은 사람의 개발 공방
 
-## dench-fetch
+
+## 개발 목록
+
+### Dench-fetch
 > fetch DX 개선 라이브러리 개발
+
+[repo](https://github.com/luckydench/dench-fetch) | [npm
+](https://www.npmjs.com/package/dench-fetch)
 
 - 빌더 체이닝을 통한 fetch 코드 작성
 - 의존성이 전혀 없는 라이브러리
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
