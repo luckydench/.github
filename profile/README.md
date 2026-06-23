@@ -1,4 +1,19 @@
-## Hi there 👋
+
+<div align="center"> 
+
+<img width="200" height="200" alt="e2fe119cd36ef6c435c3cec86cd8d3a1a80929ddd1555f521ae36dddcb42b551" src="https://github.com/user-attachments/assets/2cf25226-ec39-4354-a0b5-1326f1efdd37" />
+
+  <h1>LUCKY DENCH</h1>
+
+</div>
+
+개발도 딸깍으로 만들고 싶은 사람의 개발 공방
+
+## dench-fetch
+> fetch DX 개선 라이브러리 개발
+
+- 빌더 체이닝을 통한 fetch 코드 작성
+- 의존성이 전혀 없는 라이브러리
 
 <!--
 
