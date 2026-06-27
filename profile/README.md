@@ -23,6 +23,7 @@
 
 ## REACT-GITHUB
 > GITHUB API를 이용한 GITHUB 통계 및 대시보드 사이트 개발
+> dench 라이브러리를 직접 활용하여 fetch를 보내고 활용한 프로젝트
 > 
 
 
