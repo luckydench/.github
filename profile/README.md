@@ -32,4 +32,4 @@
 - github oauth 로그인
 
 
-<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/0869a3c4-df37-4a72-bef6-65cf11d7fedf" /> <img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/d993eea2-0d67-4412-b783-1828389c41ef" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/0869a3c4-df37-4a72-bef6-65cf11d7fedf" /> <img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/d993eea2-0d67-4412-b783-1828389c41ef" />
