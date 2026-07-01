@@ -3,14 +3,14 @@
 
 <img width="200" height="200" alt="e2fe119cd36ef6c435c3cec86cd8d3a1a80929ddd1555f521ae36dddcb42b551" src="https://github.com/user-attachments/assets/2cf25226-ec39-4354-a0b5-1326f1efdd37" />
 
-<h1>LUCKYDENKY Organization</h1>
+<h1>LUCKYDENKI Organization</h1>
 
 </div>
 
 개발도 딸깍으로 만들고 싶은 사람의 개발 공방
 
 
-## 왜 이름이 LuckyDenky 인가요?
+## 왜 이름이 LuckyDenki 인가요?
 
 애증의 캐릭터 라이덴(den) 에이의 이름과 원영적 사고의 **럭키비키** 밈을 따서 만든 레포지토리입니다. 
 
