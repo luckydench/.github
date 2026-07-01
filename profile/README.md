@@ -3,7 +3,7 @@
 
 <img width="200" height="200" alt="e2fe119cd36ef6c435c3cec86cd8d3a1a80929ddd1555f521ae36dddcb42b551" src="https://github.com/user-attachments/assets/2cf25226-ec39-4354-a0b5-1326f1efdd37" />
 
-  <h1>LUCKY DENCH Organization</h1>
+<h1>LUCKY DENCH Organization</h1>
 
 </div>
 
@@ -24,8 +24,12 @@
 ## REACT-GITHUB
 > GITHUB API를 이용한 GITHUB 통계 및 대시보드 사이트 개발
 
+[repo](https://github.com/luckydench/Gitshboard) |
+[demo](https://gitshboard.vercel.app/)
+
 - dench-fetch 라이브러리를 활용한 fetch를 보내고 활용한 프로젝트
 - react-query를 활용한 서버 상태 관리 시도
 - github oauth 로그인
 
 
+<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/0869a3c4-df37-4a72-bef6-65cf11d7fedf" /> <img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/d993eea2-0d67-4412-b783-1828389c41ef" />
